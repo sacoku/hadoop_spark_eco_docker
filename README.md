@@ -1,4 +1,7 @@
 # Hadoop EcoSystem Docker
-Lambda Architecture 기반의 Bigdata 시스템을 위한 Docker
+ - Hadoop(HDFS + Yarn)
+ - Spark(Yarn)
+ - R
+ - Zeppelin
 
 -------------------------------------------------------------
